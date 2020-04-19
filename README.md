@@ -1,5 +1,5 @@
 # RamaPlot
-###### By Matthew Masters
+##### By Matthew Masters
 Simple Python tool to calculate protein dihedral angles and plot them as Ramachandran plots.
 
 ### Usage
