@@ -1,5 +1,5 @@
 # RamaPlot
-###### By Matthew Masters
+##### By Matthew Masters
 Simple Python tool to calculate protein dihedral angles and plot them as Ramachandran plots.
 
 ### Usage
@@ -9,12 +9,12 @@ dihedrals = get_dihedrals(protein)`
 
 `plot_points(dihedrals)`
 
-![](/home/matthew/git/RamaPlot/ex_points.png)
+![](ex_points.png)
 
 `plot_heatmap(dihedrals)`
 
-![](/home/matthew/git/RamaPlot/ex_heatmap.png)
+![](ex_heatmap.png)
 
 `plot_contour(dihedrals)`
 
-![](/home/matthew/git/RamaPlot/ex_contour.png)
+![](ex_contour.png)
